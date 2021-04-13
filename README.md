@@ -46,3 +46,5 @@
  ![Monopoly Board](/src/Monopoly_ROI.jpg)
 
  ![Monopoly Board](/src/Monopoly_Movement.jpg)
+
+ Data visualization and software by Daniel Adams
